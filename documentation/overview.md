@@ -29,7 +29,7 @@ The bootstrap folder contains the initial set of resources utilized to deploy th
 
 The `clusters` folder contains the main aggregation layer for all of the elements of the cluster. This includes a `base` folder containing common elements, as well as cluster/environment specific configuration.
 
-These overlays are contains in sub-directories that include a kustomization.yaml file. The Kustomization file contains a set of references to other kustomization directories as bases. Each Kustomization file that is referenced will either have another overlay or a base definition, as illustrated in the following figure:
+These overlays are contained in sub-directories that include a kustomization.yaml file. The Kustomization file contains a set of references to other kustomization directories as bases. Each Kustomization file that is referenced will either have another overlay or a base definition, as illustrated in the following figure:
 
 ![Kustomize and ArgoCD.jpeg](images/Kustomize%20and%20ArgoCD.jpeg)
 
