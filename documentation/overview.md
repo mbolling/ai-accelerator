@@ -2,7 +2,7 @@
 
 A GitOps approach to continuous delivery enables teams to deploy micro service based applications using a set of YAML files held within a Git repository. Red Hat OpenShift GitOps facilitates the consistent and automated deployment of Git based resources, to a selection of environments on Kubernetes platforms as content progresses from development to production.
 
-This project structure is based on the opinionated configuration found [here](https://github.com/gnunn-gitops/standards/blob/master/folders.md). We highly recommend reading mode about the breakdown of the intention of this folder structure within that article.
+This project structure is based on the opinionated configuration found [here](https://github.com/gnunn-gitops/standards/blob/master/folders.md). We highly recommend reading more about the breakdown of the intention of this folder structure within that article.
 
 ## Repository Structure
 
