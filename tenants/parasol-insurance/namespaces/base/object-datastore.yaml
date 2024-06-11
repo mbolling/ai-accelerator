@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: object-datastore
   labels:
-    kubernetes.io/metadata.name: object-datastore
+    kubernetes.io/metadata.name: "object-datastore"
